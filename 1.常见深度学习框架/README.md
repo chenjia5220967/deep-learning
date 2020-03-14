@@ -1,6 +1,6 @@
 ### 常用深度学习框架
 
-#### 2019.10.16
+
 
 深度学习研究的热潮持续高涨，各种开源深度学习框架也层出不穷，其中包括TensorFlow、Caffe、Keras、CNTK、Torch7、MXNet、Leaf、Theano、DeepLearning4、Lasagne、Neon等。我们参考开源的测试结果，结合自己整理的数据，针对主流的深度学习框架进行简单对比及介绍。
 
